@@ -1,0 +1,14 @@
+language=id
+function=fungsi
+variable=biarkan
+constant=konstan
+return=kembali
+main=utama
+if=jika
+else=lainnya
+while=selama
+for=untuk
+break=berhenti
+continue=lanjut
+print=cetak
+input=isi

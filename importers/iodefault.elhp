@@ -1,0 +1,14 @@
+language=en
+function=function
+variable=let
+constant=constant
+return=return
+main=main
+if=if
+else=else
+while=while
+for=for
+break=break
+continue=continue
+print=print
+input=input
